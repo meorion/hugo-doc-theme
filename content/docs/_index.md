@@ -3,7 +3,8 @@ title: Docs
 type: book # Do not modify.
 toc: false
 ---
+Hey Guys
 
-Welcome to the _Project Docs_ template!
+I made changes in my github web interface. now I expect to see changes on the netify side.
 
-{{< cta cta_text="👉 Get Started with Chapter 1" cta_link="chapter1" >}}
+no longer be here broken link text
