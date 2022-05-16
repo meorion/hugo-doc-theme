@@ -2,7 +2,7 @@
 widget: hero
 headless: true
 weight: 10
-title: Project Docs Template
+title: Meorion
 hero_media: book.svg
 design:
   background:
@@ -19,9 +19,7 @@ cta_alt:
   label: View Documentation
 cta_note:
   label: >-
-    <span class="js-github-release" data-repo="wowchemy/wowchemy-hugo-themes">
-      Project version will appear here<!-- Automatically filled based on data-repo value -->
-    </span>
+
 ---
 
 This is a book
