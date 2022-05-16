@@ -2,19 +2,19 @@
 widget: featurette
 headless: true
 weight: 20
-title: Features
-subtitle: Document _anything_ ✨
+title: Creatures
+subtitle: :D
 feature:
   - icon: book-open
     icon_pack: fas
-    name: Project Documentation
-    description: For users
+    name: Rockumentation
+    description: For boozers
   - icon: question
     icon_pack: fas
-    name: Knowledge Base
-    description: For teams
+    name: Scum Base
+    description: dreamers
   - icon: list-alt
     icon_pack: fas
-    name: Personal Notebook
-    description: For yourself
+    name: Pop
+    description: losers
 ---
